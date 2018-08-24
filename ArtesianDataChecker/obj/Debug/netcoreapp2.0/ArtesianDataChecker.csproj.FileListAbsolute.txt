@@ -1,0 +1,11 @@
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.csprojAssemblyReference.cache
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.AssemblyInfoInputs.cache
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.AssemblyInfo.cs
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\bin\Debug\netcoreapp2.0\ArtesianDataChecker.deps.json
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\bin\Debug\netcoreapp2.0\ArtesianDataChecker.runtimeconfig.json
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\bin\Debug\netcoreapp2.0\ArtesianDataChecker.runtimeconfig.dev.json
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\bin\Debug\netcoreapp2.0\ArtesianDataChecker.dll
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\bin\Debug\netcoreapp2.0\ArtesianDataChecker.pdb
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.dll
+C:\Users\James\source\repos\ArtesianDataChecker\ArtesianDataChecker\obj\Debug\netcoreapp2.0\ArtesianDataChecker.pdb
